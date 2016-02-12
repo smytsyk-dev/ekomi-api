@@ -18,7 +18,7 @@ class GetProductFeedback extends AbstractRequest{
      *
      * @var string
      */
-    private $fields = 'order_id,product_id,rating,feedback';
+    private $fields = 'date,order_id,product_id,rating,feedback';
 
     /**
      * Exclude parameters from SOAP Call
