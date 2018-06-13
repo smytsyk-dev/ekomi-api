@@ -3,7 +3,7 @@
   "description": "eKomi API v3",
   "keywords": ["ekomi", "api", "feedback"],
   "type": "library",
-  "license": "Apache2",
+  "license": "MIT",
   "homepage": "",
   "authors": [
     {
