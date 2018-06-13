@@ -1,4 +1,4 @@
-# eKomi APIv3 Client
+# eKomi APIv3 Client (Unofficial)
 
 The library to communicate with eKomi APIv3
 
